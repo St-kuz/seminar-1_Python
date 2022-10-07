@@ -64,7 +64,7 @@ if di == 1:
 elif di == 2:
     print ('y > 0 and x < 0')
 elif di == 3:
-    print ('y < 0 and x > 0')
+    print ('y < 0 and x < 0')
 elif di == 4:
     print ('y < 0 and x > 0')
 else:
